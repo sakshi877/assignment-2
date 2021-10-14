@@ -1,0 +1,82 @@
+
+	
+
+body
+{
+	background-image: url(keyimage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align:center;
+
+
+}
+
+ .login img
+ {
+ 	height: 80px;
+ 	width: 80px;
+ 	border-radius:50%;
+ 	position: relative;
+ 	top: 22px;
+ }
+h1{
+	padding-bottom:30px;
+	font-family: sans-serif;
+	font-style: italic;
+
+}
+.event{
+	
+
+	font-weight: bold;
+	font-size:15px;
+	
+}
+.event1{
+	
+	font-weight:bold;
+	font-size: 15px;
+	
+}
+   input[type="text"]
+{
+	border:0;
+
+	background-color:transparent;
+	height: 30px;
+	font-size:15px;
+outline: 0;
+}
+
+input[type="password"]
+{
+	border:0;
+	background-color:transparent;
+	height: 30px;
+	font-size:15px;
+outline: 0;
+}
+.login a
+{
+	text-decoration: none;
+	color: white;
+}
+ 
+.login button 
+{
+	background-color: red;
+	width: 200px;
+	height:40px;
+	border-radius: 20px;
+}
+
+ h5
+ {
+ 	margin-right:8%;
+ 	color: red;
+ }
+
+
+
+
